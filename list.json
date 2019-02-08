@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "name": "Word Ladders",
+            "description": "a word puzzle game for iOS",
+            "link": "#"
+        },
+        {
+            "name": "Discord Widget",
+            "description": "my first project :)",
+            "link": "/discord-widget"
+        }
+    ],
+    "pointless": [
+        {
+            "name": "mini-py",
+            "description": "a big folder of random python problems",
+            "link": "https://github.com/ajzbc/mini-py"
+        },
+        {
+            "name": "last-commit",
+            "description": "get the last github commit from a user",
+            "link": "/last-commit"
+        },
+        {
+            "name": "rgb-to-hex",
+            "description": "convert rgb color to hex",
+            "link": "/rgb-to-hex"
+        }
+    ]
+}
