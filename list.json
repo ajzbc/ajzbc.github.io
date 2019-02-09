@@ -2,21 +2,21 @@
     "projects": [
         {
             "name": "Word Ladders",
-            "description": "a word puzzle game for iOS",
+            "description": "a word puzzle game for iOS (coming soon)",
             "link": "#"
         },
         {
             "name": "Discord Widget",
             "description": "my first project :)",
             "link": "/discord-widget"
+        },
+        {
+            "name": "Get Weather",
+            "description": "temperature based on IP address",
+            "link": "/get-weather"
         }
     ],
     "pointless": [
-        {
-            "name": "mini-py",
-            "description": "a big folder of random python problems",
-            "link": "https://github.com/ajzbc/mini-py"
-        },
         {
             "name": "last-commit",
             "description": "get the last github commit from a user",
@@ -26,6 +26,11 @@
             "name": "rgb-to-hex",
             "description": "convert rgb color to hex",
             "link": "/rgb-to-hex"
+        },
+        {
+            "name": "mini-py",
+            "description": "a big folder of random python problems",
+            "link": "https://github.com/ajzbc/mini-py"
         }
     ]
 }
