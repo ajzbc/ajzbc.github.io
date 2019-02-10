@@ -12,7 +12,7 @@
         },
         {
             "name": "Get Weather",
-            "description": "temperature based on IP address",
+            "description": "current temperature based on IP address",
             "link": "/get-weather"
         }
     ],
