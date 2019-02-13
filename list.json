@@ -16,7 +16,7 @@
             "link": "/discord-widget"
         },
         {
-            "name": "Get Weather",
+            "name": "get-weather",
             "description": "current temperature based on IP address",
             "link": "/get-weather"
         }
