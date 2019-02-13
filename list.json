@@ -6,6 +6,11 @@
             "link": "#"
         },
         {
+            "name": "kanye.rest",
+            "description": "a free json api for random kanye west quotes",
+            "link": "https://kanye.rest"
+        },
+        {
             "name": "Discord Widget",
             "description": "my first project :)",
             "link": "/discord-widget"
