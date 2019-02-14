@@ -36,6 +36,11 @@
             "name": "mini-py",
             "description": "a big folder of random python problems",
             "link": "https://github.com/ajzbc/mini-py"
+        },
+        {
+            "name": "zzz",
+            "description": "prevent your computer from falling asleep",
+            "link": "/zzz"
         }
     ]
 }
