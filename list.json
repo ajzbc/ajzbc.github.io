@@ -14,11 +14,6 @@
             "name": "Discord Widget",
             "description": "my first project :)",
             "link": "/discord-widget"
-        },
-        {
-            "name": "get-weather",
-            "description": "current temperature based on IP address",
-            "link": "/get-weather"
         }
     ],
     "pointless": [
@@ -26,6 +21,11 @@
             "name": "last-commit",
             "description": "get the last github commit from a user",
             "link": "/last-commit"
+        },
+        {
+            "name": "get-weather",
+            "description": "current temperature based on IP address",
+            "link": "/get-weather"
         },
         {
             "name": "rgb-to-hex",
