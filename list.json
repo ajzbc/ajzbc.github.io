@@ -12,7 +12,7 @@
         },
         {
             "name": "Firebase URL Shortener",
-            "description": "A serverless url shortener made with Firebase",
+            "description": "a serverless url shortener made with Firebase",
             "link": "/firebase-url-shortener"
         },
         {
