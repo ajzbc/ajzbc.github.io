@@ -11,6 +11,11 @@
             "link": "https://kanye.rest"
         },
         {
+            "name": "Firebase URL Shortener",
+            "description": "A serverless url shortener made with Firebase",
+            "link": "/firebase-url-shortener"
+        },
+        {
             "name": "Discord Widget",
             "description": "my first project :)",
             "link": "/discord-widget"
