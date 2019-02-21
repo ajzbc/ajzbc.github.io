@@ -23,14 +23,14 @@
     ],
     "pointless": [
         {
-            "name": "last-commit",
-            "description": "get the last github commit from a user",
-            "link": "/last-commit"
-        },
-        {
             "name": "get-weather",
             "description": "current temperature based on IP address",
             "link": "/get-weather"
+        },
+        {
+            "name": "last-commit",
+            "description": "get the last github commit from a user",
+            "link": "/last-commit"
         },
         {
             "name": "rgb-to-hex",
