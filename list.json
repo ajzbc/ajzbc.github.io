@@ -18,7 +18,7 @@
         {
             "name": "UCSC Loop",
             "description": "Realtime locations of UCSC Loop Busses",
-            "link": "https://ajzbc.com/ucsc-loop"
+            "link": "http://ajzbc.com/ucsc-loop"
         },
         {
             "name": "MapKit JS CoordinateRegion Generator",
