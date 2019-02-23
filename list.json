@@ -2,54 +2,59 @@
     "projects": [
         {
             "name": "Word Ladders",
-            "description": "a word puzzle game for iOS (coming soon)",
-            "link": "#"
+            "description": "A word puzzle game for iOS (coming soon)",
+            "link": ""
         },
         {
-            "name": "kanye.rest",
-            "description": "a free json api for random kanye west quotes",
+            "name": "Kanye.Rest",
+            "description": "A free json api for random kanye west quotes",
             "link": "https://kanye.rest"
         },
         {
             "name": "Firebase URL Shortener",
-            "description": "a serverless url shortener made with Firebase",
+            "description": "A serverless url shortener made with Firebase",
             "link": "/firebase-url-shortener"
         },
         {
             "name": "UCSC Loop",
             "description": "Realtime locations of UCSC Loop Busses",
-            "link": "/ucsc-loop"
+            "link": "https://ajzbc.com/ucsc-loop"
+        },
+        {
+            "name": "MapKit JS CoordinateRegion Generator",
+            "description": "Sasily generate a CoordinateRegion for MapKit JS",
+            "link": "/MapKit-JS-CoordinateRegion-Generator"
         },
         {
             "name": "Discord Widget",
-            "description": "my first project :)",
+            "description": "Embeddale custom Discord button",
             "link": "/discord-widget"
         }
     ],
     "pointless": [
         {
-            "name": "get-weather",
-            "description": "current temperature based on IP address",
+            "name": "Get Weather",
+            "description": "Current temperature based on IP address",
             "link": "/get-weather"
         },
         {
-            "name": "last-commit",
-            "description": "get the last github commit from a user",
+            "name": "Last Commit",
+            "description": "Get the last github commit from a user",
             "link": "/last-commit"
         },
         {
-            "name": "rgb-to-hex",
-            "description": "convert rgb color to hex",
+            "name": "RGB-to-HEX",
+            "description": "Convert rgb color to hex",
             "link": "/rgb-to-hex"
         },
         {
-            "name": "mini-py",
-            "description": "a big folder of random python problems",
+            "name": "MINI-PY",
+            "description": "A big folder of random python problems",
             "link": "https://github.com/ajzbc/mini-py"
         },
         {
-            "name": "zzz",
-            "description": "prevent your computer from falling asleep",
+            "name": "ZZZ",
+            "description": "Prevent your computer from falling asleep",
             "link": "/zzz"
         }
     ]
