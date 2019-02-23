@@ -27,7 +27,7 @@
         },
         {
             "name": "Discord Widget",
-            "description": "Embeddable custom Discord button",
+            "description": "Custom embeddable Discord button",
             "link": "/discord-widget"
         }
     ],
