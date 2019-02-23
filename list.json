@@ -16,6 +16,11 @@
             "link": "/firebase-url-shortener"
         },
         {
+            "name": "UCSC Loop",
+            "description": "Realtime locations of UCSC Loop Busses",
+            "link": "/ucsc-loop"
+        },
+        {
             "name": "Discord Widget",
             "description": "my first project :)",
             "link": "/discord-widget"
