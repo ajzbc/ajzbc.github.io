@@ -38,22 +38,27 @@
             "link": "/get-weather"
         },
         {
+            "name": "kanye.rest-cli",
+            "description": "get kanye.rest quotes",
+            "link": "https://www.npmjs.com/package/kanye.rest-cli"
+        },
+        {
             "name": "Last Commit",
             "description": "Get the last github commit from a user",
             "link": "/last-commit"
         },
         {
-            "name": "RGB-to-HEX",
+            "name": "rgb-to-hex",
             "description": "Convert rgb color to hex",
             "link": "/rgb-to-hex"
         },
         {
-            "name": "MINI-PY",
+            "name": "mini-py",
             "description": "A big folder of random python problems",
             "link": "https://github.com/ajzbc/mini-py"
         },
         {
-            "name": "ZZZ",
+            "name": "zzz",
             "description": "Prevent your computer from falling asleep",
             "link": "/zzz"
         }
