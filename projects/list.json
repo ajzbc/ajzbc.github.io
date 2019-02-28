@@ -28,5 +28,10 @@
         "name": "Discord Widget",
         "description": "Custom embeddable Discord button",
         "link": "/discord-widget"
+    },
+    {
+        "name": "Get Weather",
+        "description": "Current weather based on IP address",
+        "link": "/discord-widget"
     }
 ]
