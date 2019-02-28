@@ -1,0 +1,76 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Avenir, Futura, 'Open Sans', 'Gill Sans', 'Helvetica Neue', Ariel, sans-serif;
+    font-weight: bold;
+    font-size: 6vw;
+    margin: 0 1em;
+    background: radial-gradient(#c2c2c2 8%, transparent 8%), white;
+    background-position: 0 0, 25px 25px;
+    background-size:25px 25px;
+    min-height: 100vh;
+    display: flex; 
+}
+
+main {
+    margin: auto;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    outline: none;
+    color: #3738ff;
+}
+.name {
+    display: block;
+}
+
+.sub {
+    margin-top: 0.2vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    font-size: 3.5vw;
+    display: inline-block;
+}
+
+.section {
+    font-size: 2vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.project {
+    margin-top: 4vh;
+    font-size: 4vw;
+}
+
+.title {
+    margin: 0px;
+}
+
+.description {
+    margin: 0px;
+    color: rgb(100, 100, 100);
+}
