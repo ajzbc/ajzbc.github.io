@@ -71,6 +71,7 @@ a:focus {
 }
 
 .description {
+    font-size: 1.5vw;
     margin: 0px;
     color: rgb(100, 100, 100);
 }
