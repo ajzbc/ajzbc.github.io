@@ -15,6 +15,11 @@
         "link": "/firebase-url-shortener"
     },
     {
+        "name": "Domain Search",
+        "description": "Client side domain availability search",
+        "link": "/domain-search"
+    },
+    {
         "name": "UCSC Loop",
         "description": "Realtime locations of UCSC Loop Busses",
         "link": "http://ajzbc.com/ucsc-loop"
