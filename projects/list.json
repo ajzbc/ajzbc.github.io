@@ -37,6 +37,6 @@
     {
         "name": "Get Weather",
         "description": "Current weather based on IP address",
-        "link": "/discord-widget"
+        "link": "/get-weather"
     }
 ]
