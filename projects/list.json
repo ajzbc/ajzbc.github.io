@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Word Ladders",
         "description": "A word puzzle game for iOS (coming soon)",
         "link": ""
@@ -16,7 +15,7 @@
     },
     {
         "name": "GitHub Pages Repo Finder",
-        "description": "Find the repository of a GitHub pages site with a custom domain",
+        "description": "Find the repository of a GitHub Pages site with a custom domain",
         "link": "/github-pages-repo-finder"
     },
     {
