@@ -15,6 +15,11 @@
         "link": "/firebase-url-shortener"
     },
     {
+        "name": "GitHub Pages Repo Finder",
+        "description": "Find the repository of a GitHub pages site with a custom domain",
+        "link": "/github-pages-repo-finder"
+    },
+    {
         "name": "Domain Search",
         "description": "Client side domain availability search",
         "link": "/domain-search"
