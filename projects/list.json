@@ -1,12 +1,22 @@
 [{
-        "name": "Word Ladders",
-        "description": "A word puzzle game for iOS (coming soon)",
-        "link": ""
-    },
-    {
         "name": "Kanye.Rest",
         "description": "A free json api for random kanye west quotes",
         "link": "https://kanye.rest"
+    },
+    {
+        "name": "PHKit",
+        "description": "A simple api to get a product's vote count on Product Hunt",
+        "link": "https://phkit.me"
+    },
+    {
+        "name": "UCSC Loop",
+        "description": "Realtime locations of UCSC Loop Busses",
+        "link": "http://ajzbc.com/ucsc-loop"
+    },
+    {
+        "name": "Discord Widget",
+        "description": "Custom embeddable Discord button",
+        "link": "/discord-widget"
     },
     {
         "name": "Firebase URL Shortener",
@@ -24,19 +34,9 @@
         "link": "/domain-search"
     },
     {
-        "name": "UCSC Loop",
-        "description": "Realtime locations of UCSC Loop Busses",
-        "link": "http://ajzbc.com/ucsc-loop"
-    },
-    {
         "name": "MapKit JS CoordinateRegion Generator",
         "description": "Easily generate a CoordinateRegion for MapKit JS",
         "link": "/MapKit-JS-CoordinateRegion-Generator"
-    },
-    {
-        "name": "Discord Widget",
-        "description": "Custom embeddable Discord button",
-        "link": "/discord-widget"
     },
     {
         "name": "Get Weather",
